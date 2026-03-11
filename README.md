@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**NKotykova/NKotykova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nadiia Kotykova – Data Analyst
 
-Here are some ideas to get you started:
+Ich bin Datenanalystin mit Fokus auf Business Intelligence und Reporting.
+Nach einer 12-monatigen Umschulung zur IT-Fachkraft für Digitalisierung und 
+Datenverarbeitung habe ich ein IHK-Zertifikat im Bereich Datenanalyse sowie 
+die Zertifizierung als Microsoft Power BI Data Analyst Associate erworben.
+Die Ausbildung umfasste zudem Grundlagen der Statistik und des Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Kenntnisse
+
+- Power BI | DAX | Power Query
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL
+- Excel
+- KNIME
+- Statistik | Machine Learning (Grundlagen)
+
+## Portfolio
+
+Meine Analyseprojekte sind hier zu finden:  
+[github.com/NKotykova/Datenanalyse-Portfolio](https://github.com/NKotykova/Datenanalyse-Portfolio)
+
+## Kontakt
+
+[LinkedIn](www.linkedin.com/in/nadiia-kotykova)
