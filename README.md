@@ -1,17 +1,16 @@
 
 # Nadiia Kotykova – Data Analyst
 
-Daten erzählen Geschichten – ich helfe dabei, sie lesbar zu machen.
+Daten sind für mich wie ein Rätsel – ich suche nach Mustern, 
+prüfe nicht offensichtliche Zusammenhänge und frage mich: 
+Was erzählen mir diese Daten wirklich?
 
-Nach einer 12-monatigen Umschulung zur IT-Fachkraft für Digitalisierung und 
-Datenverarbeitung habe ich ein IHK-Zertifikat im Bereich Datenanalyse sowie 
-die Zertifizierung als Microsoft Power BI Data Analyst Associate erworben.  
-
-Die Ausbildung umfasste außerdem Grundlagen der Statistik und des Machine Learning.
-
-Mein Hintergrund im Management hilft mir, Daten nicht nur technisch aufzubereiten, 
-sondern auch im unternehmerischen Kontext zu verstehen und verständlich darzustellen.
-
+Mit einem Hintergrund in Management und Betriebswirtschaft 
+verstehe ich Daten nicht nur technisch, sondern auch im 
+unternehmerischen Kontext.   
+Zertifiziert als Microsoft Power BI 
+Data Analyst Associate und IHK-geprüfte Datenanalystin bringe 
+ich analytisches Denken mit praktischen BI-Kenntnissen zusammen.
 ## Kenntnisse
 
 - Power BI | DAX | Power Query
